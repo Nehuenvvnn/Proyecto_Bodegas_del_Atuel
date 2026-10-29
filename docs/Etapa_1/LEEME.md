@@ -6,4 +6,5 @@ La cardinalidad colocada junto a una entidad indica cuántas veces participa cad
 
 Las relaciones N:M con cantidad se transforman en las tablas de renglones o stock; la relación vino-cepa se transforma en Composición. El depósito es único y no requiere una tabla propia. La suma 100, la cosecha por campaña y los mínimos de participación no quedan resueltos por el dibujo: ver el análisis y el alcance de la etapa 2.
 
-La distinción entre datos base y derivados se conserva en los óvalos discontinuos. Los importes se materializan físicamente por requerimiento del TPI, con la excepción de normalización explicada en el informe.
+La distinción entre datos base y derivados se conserva en los óvalos discontinuos. Los importes se materializan físicamente por requerimiento del TPI, con la excepción de normalización explicada en el informe.     
+
