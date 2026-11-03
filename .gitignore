@@ -1,0 +1,32 @@
+# Archivos locales del sistema operativo
+.DS_Store
+
+# Configuracion y secretos locales
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+
+# Node / front
+node_modules/
+dist/
+coverage/
+
+# Editores
+.idea/
+.vscode/
+*.swp
+
+# Temporales y archivos pesados generados
+tmp/
+*.log
+*.dump
+*.backup
+dump_completo.sql.gz
+
